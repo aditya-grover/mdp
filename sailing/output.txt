@@ -1,0 +1,4 @@
+hellseed=0
+#trials=4: 0PUSH BACK CALLED NEXT!
+Entering evaluation trial
+evaluation_trial: (0,0,0)
